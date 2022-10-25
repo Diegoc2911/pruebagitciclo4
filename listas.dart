@@ -68,7 +68,7 @@ void main() {
 
   var prueba = {"1": "monitor", "2": "teclado", "3": "mouse"};
   print(prueba);
-
+  	
   var persona2 = new Map();
   persona2['nombre'] = 'pedro';
   persona2['edad'] = '55';
@@ -80,6 +80,9 @@ void main() {
 
   //hashmap
 //esta version es modificada para ver el git
+// nueva version en la rama listas2.dart
+
+
   var persona3 = new HashMap();
   persona3['nombre'] = 'Carlos';
   persona3['edad'] = 35;
