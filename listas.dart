@@ -64,6 +64,7 @@ void main() {
   print(numeros);
 
   //map
+//esta version es modificada para ver el git
 
   var prueba = {"1": "monitor", "2": "teclado", "3": "mouse"};
   print(prueba);
@@ -78,7 +79,7 @@ void main() {
   prueba.forEach((key, val) => print("$key y su valor: $val"));
 
   //hashmap
-
+//esta version es modificada para ver el git
   var persona3 = new HashMap();
   persona3['nombre'] = 'Carlos';
   persona3['edad'] = 35;
